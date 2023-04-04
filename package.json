@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-svg-background",
+  "version": "1.0.0",
+  "description": "SVG background image plugin for Tailwindcss",
+  "main": "src/index.js",
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "plugin",
+    "tailwindcss-plugin"
+  ],
+  "author": "Sadiq Salau",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadiqsalau/tailwindcss-svg-background.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sadiqsalau/tailwindcss-svg-background/issues"
+  },
+  "homepage": "https://github.com/sadiqsalau/tailwindcss-svg-background#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}

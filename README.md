@@ -61,7 +61,7 @@ The plugin provides options for generating the classes
 
 | Options       | Default Value  |                             Description |
 | ------------- | :------------: | --------------------------------------: |
-| `classPrefix` |    `bg-svg`    |                  Utilities class prefix |
+| `classPrefix` |    `bg-svg`    |                  Utility class prefix |
 | `replaceText` | `{{svgcolor}}` | Text to replace with color value in SVG |
 
 ```js
